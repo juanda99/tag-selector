@@ -24,7 +24,41 @@
     ]
   },
   {
-    "label": "Categories2",
-    "value": "categs"
+    "label": "Abecedario",
+    "value": "abecedario",
+    "children": [
+      {
+        "label": "Letra",
+        "value": "letra",
+        "children": [
+          {
+            "label": "Mayúscula",
+            "value": "mayuscula"
+          },
+          {
+            "label": "Minúscula",
+            "value": "minuscula"
+          }
+        ]
+      },
+      {
+        "label": "Sonido",
+        "value": "sonido",
+        "children": [
+          {
+            "label": "Vocal",
+            "value": "vocal"
+          },
+          {
+            "label": "Consonante",
+            "value": "consonante"
+          }
+        ]
+      },
+      {
+        "label": "Signo ortográfico",
+        "value": "signo-ortografico"
+      }
+    ]
   }
 ]
