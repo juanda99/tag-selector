@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Alimentación",
+    "value": "alimentacion",
+    "children": [
+      {
+        "label": "Alimento de origen animal",
+        "value": "alimento-de-origen-animal",
+        "children": [
+          {
+            "label": "Lacteo",
+            "value": "lacteo"
+          },
+          {
+            "label": "Carne",
+            "value": "carne"
+          },
+          {
+            "label": "Pescado",
+            "value": "pescado"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Categories2",
+    "value": "categs"
+  }
+]
